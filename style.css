@@ -1,0 +1,114 @@
+.nasims-logo{
+    width: 5%;
+}
+.container-fluid p{
+    margin-left: -500px;
+}
+
+.logo{
+    width: 30%;
+    /* height: 200px; */
+}
+.carousel-inner{
+    margin-top: 0px;
+}
+.slide1{
+    background-color:rgb(242, 252, 249);
+    padding-left: 100px;
+}
+.carousel-inner p{
+    margin-top: -50px;
+    width: 70%;
+}
+.slide2{
+    background-color: hsl(33, 100%, 98%);
+    padding-left: 100px;
+}
+.slide3{
+    background-color: hsl(12, 63%, 97%);
+    padding-left: 100px;
+}
+.rightside{
+    padding: 80px 0px 0px 80px;
+}
+.sec-section{
+    margin-bottom: 150px;
+}
+.i-mages{
+    padding-left: 150px;
+}
+.forth-section{
+    background-color: hsl(162, 63%, 97%);
+    padding-bottom: 50px;
+}
+.text-center{
+    width: 50%;
+    margin-left: 400px;
+}
+.n-powerimg{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.first-slide-right{
+    box-shadow: 10px 10px 30px gray;
+}
+.cct-img{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.first-slide-left{
+    box-shadow: 10px 10px 30px gray;
+}
+.ngesimg{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.second-slide-left{
+    box-shadow: 10px 10px 30px gray;
+}
+.geepimg{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+.second-slide-right{
+    box-shadow: 10px 10px 30px gray;
+}
+.fifthimg{
+    height: 300px;
+}
+.fifth-section{
+    padding: 100px;
+}
+.newspage{
+    margin-left: 700px;
+    margin-bottom: 100px;
+}
+.follow{
+    padding: 20px 200px;
+    text-align: center;
+}
+.follow li{
+    display: inline;
+    list-style: none;
+    padding-right: 20px;
+}
+.got-question{
+    padding: 20px 200px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.footer li{
+    display: inline;
+    list-style: none;
+    padding-right: 20px;
+}
+.footer{
+    padding: 20px 200px;
+    text-align: center;
+    background-color: hsl(148, 75%, 11%);
+    color: white;
+}
